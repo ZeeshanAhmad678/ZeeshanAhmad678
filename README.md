@@ -1,6 +1,6 @@
 ## Hi, I am Zeeshan Ahmad,
 
-# 💫 About Me:
+#  About Me:
 <br>Software Engineering student at UET Taxila.<br>I am passionate about full-stack development.<br>I build web apps using HTML, CSS, JavaScript and React.<br><br>
 
 
