@@ -1,5 +1,5 @@
 #  About Me:
- Hi there, I'm Zeeshan Ahmad<br><br>* Full Stack Developer passionate about building modern web applications<br>* Working with the MERN Stack & Next.js<br>* Software Engineering Student at UET Taxila<br><br> **Tech Stack** <br><br>* Frontend: React.js, Next.js, Tailwind CSS<br>* Backend: Node.js, Express.js<br>* Database: MongoDB, Postgres<br>* Tools: Git, GitHub, Docker<br><br>* Building scalable and responsive web applications<br>* Interested in modern web technologies & AI-powered apps<br>* Always learning and improving my development skills<br><br>Reach me at: zeeshanahmad8086@gmail.com<br>
+ Hi there, I'm Zeeshan Ahmad<br><br>* Full Stack Developer passionate about building modern web and mobile applications<br>* Working with the MERN Stack & Next.js<br>* Software Engineering Student at UET Taxila<br><br> **Tech Stack** <br><br>* Frontend: React.js, React Native Next.js, Tailwind CSS<br>* Backend: Node.js, Express.js<br>* Database: MongoDB, Postgres<br>* Tools: Git, GitHub, Docker<br><br>* Building scalable and responsive web applications<br>* Interested in modern web technologies & AI-powered apps<br>* Always learning and improving my development skills<br><br>Reach me at: zeeshanahmad8086@gmail.com<br>
 
 
 ## 🌐 Socials:
