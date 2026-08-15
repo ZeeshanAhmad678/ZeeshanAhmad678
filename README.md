@@ -1,6 +1,28 @@
-# 💫 About Me:
-# Hi, I'm Zeeshan Ahmad 👋<br><br> ###Software Engineer | Full-Stack Developer<br><br>I’m a Software Engineer and Full-Stack Developer focused on building modern, scalable, and user-focused web and mobile applications.<br><br>I work primarily with **JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and React Native**.<br><br>🎓 **BS Software Engineering — UET Taxila**<br><br>💻 Interested in building real-world products, solving complex problems, and continuously exploring modern software technologies.<br><br>---<br><br>## 🚀 What I Work With<br><br>**Frontend**<br><br>* React.js<br>* Next.js<br>* JavaScript<br>* Tailwind CSS<br><br>**Backend**<br><br>* Node.js<br>* Express.js<br>* REST APIs<br>* Socket.IO<br><br>**Mobile**<br><br>* React Native<br><br>**Databases**<br><br>* MongoDB<br>* PostgreSQL<br>* MySQL<br><br>**Tools & Services**<br><br>* Git & GitHub<br>* Docker<br>* Firebase<br>* Cloudinary<br>* Stripe<br><br>---<br><br>## 📌 Featured Projects<br><br>Check out my repositories to explore projects involving:<br><br>* Full-stack web applications<br>* Real-time applications<br>* REST APIs<br>* Authentication & authorization<br>* Database-driven systems<br>* Mobile applications<br>* Modern React/Next.js applications<br><br>---<br><br>## 🔗 Connect With Me<br><br>* 💼 LinkedIn: https://www.linkedin.com/in/zeeshanahmad8086/<br>* 𝕏 X: https://x.com/Zeeshan_Ah7<br>* 📸 Instagram: https://www.instagram.com/thenameiszeshan/<br><br>---<br><br>### 💡 Currently<br><br>Building software, learning continuously, and exploring new technologies in web and mobile development.<br>
+Hi, I'm Zeeshan Ahmad 👋<br>
+<b>Software Engineer | Full-Stack Developer</b><br><br>
 
+I’m a Software Engineer and Full-Stack Developer focused on building modern, scalable, and user-focused web and mobile applications.<br>
+I work primarily with <b>JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and React Native.</b><br>
+🎓 <b>BS Software Engineering — UET Taxila</b><br>
+💻 Interested in building real-world products, solving complex problems, and continuously exploring modern software technologies.<br><br>
+
+🚀 <b>What I Work With</b><br>
+<b>Frontend:</b> React.js • Next.js • JavaScript • Tailwind CSS<br>
+<b>Backend:</b> Node.js • Express.js • REST APIs • Socket.IO<br>
+<b>Mobile:</b> React Native<br>
+<b>Databases:</b> MongoDB • PostgreSQL • MySQL<br>
+<b>Tools & Services:</b> Git & GitHub • Docker • Firebase • Cloudinary • Stripe<br><br>
+
+📌 <b>Featured Projects</b><br>
+Check out my repositories to explore projects involving full-stack web applications, real-time applications, REST APIs, authentication and authorization, database-driven systems, mobile applications, and modern React/Next.js applications.<br><br>
+
+🔗 <b>Connect With Me</b><br>
+💼 LinkedIn: https://www.linkedin.com/in/zeeshanahmad8086/<br>
+𝕏 X: https://x.com/Zeeshan_Ah7<br>
+📸 Instagram: https://www.instagram.com/thenameiszeshan/<br><br>
+
+💡 <b>Currently</b><br>
+Building software, learning continuously, and exploring new technologies in web and mobile development.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thenameiszeshan/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zeeshanahmad8086/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Zeeshan_Ah7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zeeshanahmad8086@gmail.com) 
